@@ -20,7 +20,7 @@ Aqui estão as pastas e o que você pode encontrar em cada uma delas:
 
     bash
 
-git clone https://github.com/diegobda/seu-repositorio.git
+git clone [https://github.com/diegobda/seu-repositorio.git](https://github.com/diegobda/Javascript-Exercicios-2024)
 
 Navegue até o diretório do projeto:
 
